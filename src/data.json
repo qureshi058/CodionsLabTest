@@ -1,0 +1,1215 @@
+{
+  "boards": [
+    {
+      "name": "Platform Launch",
+      "isActive" : false,
+      "columns": [
+        {
+          "name": "Todo",
+          "tasks": [
+            {
+              "title": "Build UI for onboarding flow",
+              "description": "",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Sign up page",
+                  "isCompleted": true
+                },
+                {
+                  "title": "Sign in page",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Welcome page",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Build UI for search",
+              "description": "",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Search page",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Build settings UI",
+              "description": "",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Account page",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Billing page",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "QA and test all major user journeys",
+              "description": "Once we feel version one is ready, we need to rigorously test it both internally and externally to identify any major gaps.",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Internal testing",
+                  "isCompleted": false
+                },
+                {
+                  "title": "External testing",
+                  "isCompleted": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Doing",
+          "tasks": [
+            {
+              "title": "Design settings and search pages",
+              "description": "",
+              "status": "Doing",
+              "subtasks": [
+                {
+                  "title": "Settings - Account page",
+                  "isCompleted": true
+                },
+                {
+                  "title": "Settings - Billing page",
+                  "isCompleted": true
+                },
+                {
+                  "title": "Search page",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Add account management endpoints",
+              "description": "",
+              "status": "Doing",
+              "subtasks": [
+                {
+                  "title": "Upgrade plan",
+                  "isCompleted": true
+                },
+                {
+                  "title": "Cancel plan",
+                  "isCompleted": true
+                },
+                {
+                  "title": "Update payment method",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Design onboarding flow",
+              "description": "",
+              "status": "Doing",
+              "subtasks": [
+                {
+                  "title": "Sign up page",
+                  "isCompleted": true
+                },
+                {
+                  "title": "Sign in page",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Welcome page",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Add search enpoints",
+              "description": "",
+              "status": "Doing",
+              "subtasks": [
+                {
+                  "title": "Add search endpoint",
+                  "isCompleted": true
+                },
+                {
+                  "title": "Define search filters",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Add authentication endpoints",
+              "description": "",
+              "status": "Doing",
+              "subtasks": [
+                {
+                  "title": "Define user model",
+                  "isCompleted": true
+                },
+                {
+                  "title": "Add auth endpoints",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Research pricing points of various competitors and trial different business models",
+              "description": "We know what we're planning to build for version one. Now we need to finalise the first pricing model we'll use. Keep iterating the subtasks until we have a coherent proposition.",
+              "status": "Doing",
+              "subtasks": [
+                {
+                  "title": "Research competitor pricing and business models",
+                  "isCompleted": true
+                },
+                {
+                  "title": "Outline a business model that works for our solution",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Talk to potential customers about our proposed solution and ask for fair price expectancy",
+                  "isCompleted": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Done",
+          "tasks": [
+            {
+              "title": "Conduct 5 wireframe tests",
+              "description": "Ensure the layout continues to make sense and we have strong buy-in from potential users.",
+              "status": "Done",
+              "subtasks": [
+                {
+                  "title": "Complete 5 wireframe prototype tests",
+                  "isCompleted": true
+                }
+              ]
+            },
+            {
+              "title": "Create wireframe prototype",
+              "description": "Create a greyscale clickable wireframe prototype to test our asssumptions so far.",
+              "status": "Done",
+              "subtasks": [
+                {
+                  "title": "Create clickable wireframe prototype in Balsamiq",
+                  "isCompleted": true
+                }
+              ]
+            },
+            {
+              "title": "Review results of usability tests and iterate",
+              "description": "Keep iterating through the subtasks until we're clear on the core concepts for the app.",
+              "status": "Done",
+              "subtasks": [
+                {
+                  "title": "Meet to review notes from previous tests and plan changes",
+                  "isCompleted": true
+                },
+                {
+                  "title": "Make changes to paper prototypes",
+                  "isCompleted": true
+                },
+                {
+                  "title": "Conduct 5 usability tests",
+                  "isCompleted": true
+                }
+              ]
+            },
+            {
+              "title": "Create paper prototypes and conduct 10 usability tests with potential customers",
+              "description": "",
+              "status": "Done",
+              "subtasks": [
+                {
+                  "title": "Create paper prototypes for version one",
+                  "isCompleted": true
+                },
+                {
+                  "title": "Complete 10 usability tests",
+                  "isCompleted": true
+                }
+              ]
+            },
+            {
+              "title": "Market discovery",
+              "description": "We need to define and refine our core product. Interviews will help us learn common pain points and help us define the strongest MVP.",
+              "status": "Done",
+              "subtasks": [
+                {
+                  "title": "Interview 10 prospective customers",
+                  "isCompleted": true
+                }
+              ]
+            },
+            {
+              "title": "Competitor analysis",
+              "description": "",
+              "status": "Done",
+              "subtasks": [
+                {
+                  "title": "Find direct and indirect competitors",
+                  "isCompleted": true
+                },
+                {
+                  "title": "SWOT analysis for each competitor",
+                  "isCompleted": true
+                }
+              ]
+            },
+            {
+              "title": "Research the market",
+              "description": "We need to get a solid overview of the market to ensure we have up-to-date estimates of market size and demand.",
+              "status": "Done",
+              "subtasks": [
+                {
+                  "title": "Write up research analysis",
+                  "isCompleted": true
+                },
+                {
+                  "title": "Calculate TAM",
+                  "isCompleted": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Marketing Plan",
+      "isActive" : false,
+      "columns": [
+        {
+          "name": "Todo",
+          "tasks": [
+            {
+              "title": "Plan Product Hunt launch",
+              "description": "",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Find hunter",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Gather assets",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Draft product page",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Notify customers",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Notify network",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Launch!",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Share on Show HN",
+              "description": "",
+              "status": "",
+              "subtasks": [
+                {
+                  "title": "Draft out HN post",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Get feedback and refine",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Publish post",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Write launch article to publish on multiple channels",
+              "description": "",
+              "status": "",
+              "subtasks": [
+                {
+                  "title": "Write article",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Publish on LinkedIn",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Publish on Inndie Hackers",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Publish on Medium",
+                  "isCompleted": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Doing",
+          "tasks": []
+        },
+        {
+          "name": "Done",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Roadmap",
+      "isActive" : false,
+      "columns": [
+        {
+          "name": "Now",
+          "tasks": [
+            {
+              "title": "Launch version one",
+              "description": "",
+              "status": "",
+              "subtasks": [
+                {
+                  "title": "Launch privately to our waitlist",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Launch publicly on PH, HN, etc.",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Review early feedback and plan next steps for roadmap",
+              "description": "Beyond the initial launch, we're keeping the initial roadmap completely empty. This meeting will help us plan out our next steps based on actual customer feedback.",
+              "status": "",
+              "subtasks": [
+                {
+                  "title": "Interview 10 customers",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Review common customer pain points and suggestions",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Outline next steps for our roadmap",
+                  "isCompleted": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Next",
+          "tasks": []
+        },
+        {
+          "name": "Later",
+          "tasks": []
+        }
+      ]
+    }
+  ]
+  ,
+
+  "projects": {
+    "current_page": 1,
+    "data": [
+      {
+        "id": 139,
+        "name": "NUST University",
+        "description": "this is Nust Porjet",
+        "icon": null,
+        "is_active": 1,
+        "created_at": "2024-07-08T12:09:57.000000Z",
+        "updated_at": "2024-07-08T12:09:57.000000Z",
+        "users": []
+      },
+      {
+        "id": 87,
+        "name": "Ipsum sit consequatur vel praesentium ut non.",
+        "description": "Aut est ipsa laborum. Minima vel voluptatem aliquid perferendis. Corrupti praesentium veniam et voluptatibus praesentium et. Non ut et veritatis necessitatibus quo enim.",
+        "icon": null,
+        "is_active": 1,
+        "created_at": "2024-06-20T06:54:34.000000Z",
+        "updated_at": "2024-06-20T06:54:34.000000Z",
+        "users": [
+          {
+            "id": 2193,
+            "name": "usman khan updated",
+            "email": "usman@gmail.com",
+            "email_verified_at": null,
+            "role": "user",
+            "profile": null,
+            "is_active": 1,
+            "created_at": "2024-07-04T09:16:47.000000Z",
+            "updated_at": "2024-07-07T10:53:38.000000Z",
+            "pivot": {
+              "project_id": 87,
+              "user_id": 2193
+            }
+          },
+          {
+            "id": 2202,
+            "name": "admin",
+            "email": "admin@gmail.com",
+            "email_verified_at": null,
+            "role": "user",
+            "profile": null,
+            "is_active": 1,
+            "created_at": "2024-07-08T11:36:40.000000Z",
+            "updated_at": "2024-07-08T11:36:40.000000Z",
+            "pivot": {
+              "project_id": 87,
+              "user_id": 2202
+            }
+          }
+        ]
+      },
+      {
+        "id": 86,
+        "name": "Test Project Updated",
+        "description": "this project is update through API",
+        "icon": null,
+        "is_active": 1,
+        "created_at": "2024-06-20T06:54:33.000000Z",
+        "updated_at": "2024-07-08T12:27:39.000000Z",
+        "users": []
+      },
+      {
+        "id": 85,
+        "name": "Animi eaque excepturi deleniti corporis maxime est.",
+        "description": "Ut dignissimos enim amet deserunt debitis rerum. Quia assumenda asperiores architecto deleniti maxime aut impedit. Architecto sit sunt cupiditate nostrum necessitatibus quas dolore ut. Ut inventore nam totam placeat exercitationem.",
+        "icon": null,
+        "is_active": 1,
+        "created_at": "2024-06-20T06:54:33.000000Z",
+        "updated_at": "2024-06-20T06:54:33.000000Z",
+        "users": [
+          {
+            "id": 4,
+            "name": "Mr. Antonio Reichel",
+            "email": "tamara.fahey@example.net",
+            "email_verified_at": "2024-06-20T06:54:08.000000Z",
+            "role": "user",
+            "profile": null,
+            "is_active": 1,
+            "created_at": "2024-06-20T06:54:08.000000Z",
+            "updated_at": "2024-06-20T06:54:08.000000Z",
+            "pivot": {
+              "project_id": 85,
+              "user_id": 4
+            }
+          },
+          {
+            "id": 43,
+            "name": "Ethan Heathcote",
+            "email": "jreichert@example.net",
+            "email_verified_at": "2024-06-20T06:54:08.000000Z",
+            "role": "user",
+            "profile": null,
+            "is_active": 1,
+            "created_at": "2024-06-20T06:54:08.000000Z",
+            "updated_at": "2024-06-20T06:54:08.000000Z",
+            "pivot": {
+              "project_id": 85,
+              "user_id": 43
+            }
+          },
+          {
+            "id": 65,
+            "name": "Mr. Justice Rohan PhD",
+            "email": "aglae73@example.net",
+            "email_verified_at": "2024-06-20T06:54:08.000000Z",
+            "role": "user",
+            "profile": null,
+            "is_active": 1,
+            "created_at": "2024-06-20T06:54:08.000000Z",
+            "updated_at": "2024-06-20T06:54:08.000000Z",
+            "pivot": {
+              "project_id": 85,
+              "user_id": 65
+            }
+          },
+          {
+            "id": 75,
+            "name": "Lance Ryan PhD",
+            "email": "whyatt@example.net",
+            "email_verified_at": "2024-06-20T06:54:08.000000Z",
+            "role": "user",
+            "profile": null,
+            "is_active": 1,
+            "created_at": "2024-06-20T06:54:08.000000Z",
+            "updated_at": "2024-06-20T06:54:08.000000Z",
+            "pivot": {
+              "project_id": 85,
+              "user_id": 75
+            }
+          },
+          {
+            "id": 84,
+            "name": "Kale Morissette IV",
+            "email": "keeley.stanton@example.com",
+            "email_verified_at": "2024-06-20T06:54:08.000000Z",
+            "role": "user",
+            "profile": null,
+            "is_active": 1,
+            "created_at": "2024-06-20T06:54:08.000000Z",
+            "updated_at": "2024-06-20T06:54:08.000000Z",
+            "pivot": {
+              "project_id": 85,
+              "user_id": 84
+            }
+          },
+          {
+            "id": 90,
+            "name": "Marvin Collins",
+            "email": "santina.terry@example.com",
+            "email_verified_at": "2024-06-20T06:54:08.000000Z",
+            "role": "user",
+            "profile": null,
+            "is_active": 1,
+            "created_at": "2024-06-20T06:54:08.000000Z",
+            "updated_at": "2024-06-20T06:54:08.000000Z",
+            "pivot": {
+              "project_id": 85,
+              "user_id": 90
+            }
+          }
+        ]
+      },
+      {
+        "id": 84,
+        "name": "Adipisci quod sequi quidem autem.",
+        "description": "Ipsam vel voluptatibus nihil nihil quia. Veniam est est id illo cum omnis.",
+        "icon": null,
+        "is_active": 1,
+        "created_at": "2024-06-20T06:54:33.000000Z",
+        "updated_at": "2024-06-20T06:54:33.000000Z",
+        "users": [
+          {
+            "id": 2193,
+            "name": "usman khan updated",
+            "email": "usman@gmail.com",
+            "email_verified_at": null,
+            "role": "user",
+            "profile": null,
+            "is_active": 1,
+            "created_at": "2024-07-04T09:16:47.000000Z",
+            "updated_at": "2024-07-07T10:53:38.000000Z",
+            "pivot": {
+              "project_id": 84,
+              "user_id": 2193
+            }
+          }
+        ]
+      },
+      {
+        "id": 83,
+        "name": "Dolor consequatur mollitia ut numquam quia.",
+        "description": "Qui sed voluptatem et vel aut ex aut. Ipsa dolor incidunt autem ipsa et debitis. Eos quam adipisci recusandae omnis magnam veritatis.",
+        "icon": null,
+        "is_active": 1,
+        "created_at": "2024-06-20T06:54:32.000000Z",
+        "updated_at": "2024-06-20T06:54:32.000000Z",
+        "users": [
+          {
+            "id": 2185,
+            "name": "arham1",
+            "email": "arham1@gmail.com",
+            "email_verified_at": null,
+            "role": "user",
+            "profile": null,
+            "is_active": 1,
+            "created_at": "2024-06-27T04:52:40.000000Z",
+            "updated_at": "2024-06-27T04:52:40.000000Z",
+            "pivot": {
+              "project_id": 83,
+              "user_id": 2185
+            }
+          },
+          {
+            "id": 2164,
+            "name": "Mason Burnett",
+            "email": "gigyfovi@mailinator.com",
+            "email_verified_at": null,
+            "role": "user",
+            "profile": null,
+            "is_active": 1,
+            "created_at": "2024-06-25T07:48:12.000000Z",
+            "updated_at": "2024-06-25T07:48:12.000000Z",
+            "pivot": {
+              "project_id": 83,
+              "user_id": 2164
+            }
+          }
+        ]
+      },
+      {
+        "id": 82,
+        "name": "Nemo voluptatem quia qui illum quis nam.",
+        "description": "Autem molestiae nobis eius odio debitis quasi qui dicta. Saepe sit aut sit quis incidunt. Corrupti provident placeat consequatur labore sit nam labore.",
+        "icon": null,
+        "is_active": 1,
+        "created_at": "2024-06-20T06:54:32.000000Z",
+        "updated_at": "2024-06-20T06:54:32.000000Z",
+        "users": [
+          {
+            "id": 15,
+            "name": "Prof. Clara Watsica Jr.",
+            "email": "beahan.chester@example.com",
+            "email_verified_at": "2024-06-20T06:54:08.000000Z",
+            "role": "user",
+            "profile": null,
+            "is_active": 1,
+            "created_at": "2024-06-20T06:54:08.000000Z",
+            "updated_at": "2024-06-20T06:54:08.000000Z",
+            "pivot": {
+              "project_id": 82,
+              "user_id": 15
+            }
+          },
+          {
+            "id": 16,
+            "name": "Fernando Langosh",
+            "email": "bsimonis@example.org",
+            "email_verified_at": "2024-06-20T06:54:08.000000Z",
+            "role": "user",
+            "profile": null,
+            "is_active": 1,
+            "created_at": "2024-06-20T06:54:08.000000Z",
+            "updated_at": "2024-06-20T06:54:08.000000Z",
+            "pivot": {
+              "project_id": 82,
+              "user_id": 16
+            }
+          },
+          {
+            "id": 27,
+            "name": "Hugh Breitenberg",
+            "email": "quitzon.sydnee@example.org",
+            "email_verified_at": "2024-06-20T06:54:08.000000Z",
+            "role": "user",
+            "profile": null,
+            "is_active": 1,
+            "created_at": "2024-06-20T06:54:08.000000Z",
+            "updated_at": "2024-06-20T06:54:08.000000Z",
+            "pivot": {
+              "project_id": 82,
+              "user_id": 27
+            }
+          },
+          {
+            "id": 28,
+            "name": "Dorian Farrell",
+            "email": "ahammes@example.net",
+            "email_verified_at": "2024-06-20T06:54:08.000000Z",
+            "role": "user",
+            "profile": null,
+            "is_active": 1,
+            "created_at": "2024-06-20T06:54:08.000000Z",
+            "updated_at": "2024-06-20T06:54:08.000000Z",
+            "pivot": {
+              "project_id": 82,
+              "user_id": 28
+            }
+          },
+          {
+            "id": 52,
+            "name": "Trystan Littel PhD",
+            "email": "xbradtke@example.com",
+            "email_verified_at": "2024-06-20T06:54:08.000000Z",
+            "role": "user",
+            "profile": null,
+            "is_active": 1,
+            "created_at": "2024-06-20T06:54:08.000000Z",
+            "updated_at": "2024-06-20T06:54:08.000000Z",
+            "pivot": {
+              "project_id": 82,
+              "user_id": 52
+            }
+          },
+          {
+            "id": 56,
+            "name": "Cleve Konopelski",
+            "email": "fthiel@example.net",
+            "email_verified_at": "2024-06-20T06:54:08.000000Z",
+            "role": "user",
+            "profile": null,
+            "is_active": 1,
+            "created_at": "2024-06-20T06:54:08.000000Z",
+            "updated_at": "2024-06-20T06:54:08.000000Z",
+            "pivot": {
+              "project_id": 82,
+              "user_id": 56
+            }
+          },
+          {
+            "id": 58,
+            "name": "Reinhold Fadel Jr.",
+            "email": "emann@example.com",
+            "email_verified_at": "2024-06-20T06:54:08.000000Z",
+            "role": "user",
+            "profile": null,
+            "is_active": 1,
+            "created_at": "2024-06-20T06:54:08.000000Z",
+            "updated_at": "2024-06-20T06:54:08.000000Z",
+            "pivot": {
+              "project_id": 82,
+              "user_id": 58
+            }
+          },
+          {
+            "id": 96,
+            "name": "Lavon Ziemann",
+            "email": "nicola.kemmer@example.org",
+            "email_verified_at": "2024-06-20T06:54:08.000000Z",
+            "role": "user",
+            "profile": null,
+            "is_active": 1,
+            "created_at": "2024-06-20T06:54:08.000000Z",
+            "updated_at": "2024-06-20T06:54:08.000000Z",
+            "pivot": {
+              "project_id": 82,
+              "user_id": 96
+            }
+          }
+        ]
+      },
+      {
+        "id": 81,
+        "name": "Animi iure est enim eligendi nihil odio commodi quo.",
+        "description": "Rerum incidunt ab quis alias. Deserunt dolores voluptatibus laudantium commodi.",
+        "icon": null,
+        "is_active": 1,
+        "created_at": "2024-06-20T06:54:32.000000Z",
+        "updated_at": "2024-06-20T06:54:32.000000Z",
+        "users": [
+          {
+            "id": 10,
+            "name": "Richard Hill",
+            "email": "niko.nader@example.org",
+            "email_verified_at": "2024-06-20T06:54:08.000000Z",
+            "role": "user",
+            "profile": null,
+            "is_active": 1,
+            "created_at": "2024-06-20T06:54:08.000000Z",
+            "updated_at": "2024-06-20T06:54:08.000000Z",
+            "pivot": {
+              "project_id": 81,
+              "user_id": 10
+            }
+          },
+          {
+            "id": 15,
+            "name": "Prof. Clara Watsica Jr.",
+            "email": "beahan.chester@example.com",
+            "email_verified_at": "2024-06-20T06:54:08.000000Z",
+            "role": "user",
+            "profile": null,
+            "is_active": 1,
+            "created_at": "2024-06-20T06:54:08.000000Z",
+            "updated_at": "2024-06-20T06:54:08.000000Z",
+            "pivot": {
+              "project_id": 81,
+              "user_id": 15
+            }
+          },
+          {
+            "id": 17,
+            "name": "Ms. Natalie Kulas",
+            "email": "colten33@example.net",
+            "email_verified_at": "2024-06-20T06:54:08.000000Z",
+            "role": "user",
+            "profile": null,
+            "is_active": 1,
+            "created_at": "2024-06-20T06:54:08.000000Z",
+            "updated_at": "2024-06-20T06:54:08.000000Z",
+            "pivot": {
+              "project_id": 81,
+              "user_id": 17
+            }
+          },
+          {
+            "id": 32,
+            "name": "Miss Gabriella Gleichner",
+            "email": "bria.lockman@example.net",
+            "email_verified_at": "2024-06-20T06:54:08.000000Z",
+            "role": "user",
+            "profile": null,
+            "is_active": 1,
+            "created_at": "2024-06-20T06:54:08.000000Z",
+            "updated_at": "2024-06-20T06:54:08.000000Z",
+            "pivot": {
+              "project_id": 81,
+              "user_id": 32
+            }
+          },
+          {
+            "id": 46,
+            "name": "Veronica Bradtke",
+            "email": "oral.wehner@example.org",
+            "email_verified_at": "2024-06-20T06:54:08.000000Z",
+            "role": "user",
+            "profile": null,
+            "is_active": 1,
+            "created_at": "2024-06-20T06:54:08.000000Z",
+            "updated_at": "2024-06-20T06:54:08.000000Z",
+            "pivot": {
+              "project_id": 81,
+              "user_id": 46
+            }
+          },
+          {
+            "id": 47,
+            "name": "Mr. Peter Bauch",
+            "email": "ruthe.blanda@example.org",
+            "email_verified_at": "2024-06-20T06:54:08.000000Z",
+            "role": "user",
+            "profile": null,
+            "is_active": 1,
+            "created_at": "2024-06-20T06:54:08.000000Z",
+            "updated_at": "2024-06-20T06:54:08.000000Z",
+            "pivot": {
+              "project_id": 81,
+              "user_id": 47
+            }
+          },
+          {
+            "id": 60,
+            "name": "Lisa Hauck",
+            "email": "qjacobs@example.org",
+            "email_verified_at": "2024-06-20T06:54:08.000000Z",
+            "role": "user",
+            "profile": null,
+            "is_active": 1,
+            "created_at": "2024-06-20T06:54:08.000000Z",
+            "updated_at": "2024-06-20T06:54:08.000000Z",
+            "pivot": {
+              "project_id": 81,
+              "user_id": 60
+            }
+          },
+          {
+            "id": 65,
+            "name": "Mr. Justice Rohan PhD",
+            "email": "aglae73@example.net",
+            "email_verified_at": "2024-06-20T06:54:08.000000Z",
+            "role": "user",
+            "profile": null,
+            "is_active": 1,
+            "created_at": "2024-06-20T06:54:08.000000Z",
+            "updated_at": "2024-06-20T06:54:08.000000Z",
+            "pivot": {
+              "project_id": 81,
+              "user_id": 65
+            }
+          },
+          {
+            "id": 77,
+            "name": "Jamal Schmitt",
+            "email": "huel.cleveland@example.net",
+            "email_verified_at": "2024-06-20T06:54:08.000000Z",
+            "role": "user",
+            "profile": null,
+            "is_active": 1,
+            "created_at": "2024-06-20T06:54:08.000000Z",
+            "updated_at": "2024-06-20T06:54:08.000000Z",
+            "pivot": {
+              "project_id": 81,
+              "user_id": 77
+            }
+          },
+          {
+            "id": 90,
+            "name": "Marvin Collins",
+            "email": "santina.terry@example.com",
+            "email_verified_at": "2024-06-20T06:54:08.000000Z",
+            "role": "user",
+            "profile": null,
+            "is_active": 1,
+            "created_at": "2024-06-20T06:54:08.000000Z",
+            "updated_at": "2024-06-20T06:54:08.000000Z",
+            "pivot": {
+              "project_id": 81,
+              "user_id": 90
+            }
+          }
+        ]
+      },
+      {
+        "id": 79,
+        "name": "Reprehenderit laboriosam soluta fugiat consectetur molestias ea et.",
+        "description": "Itaque eligendi et consequatur incidunt ad autem deserunt. Adipisci iste eveniet et ut ullam corrupti est consectetur. Maxime atque incidunt nesciunt sit modi minima et sint. Eaque quis numquam harum. Aliquid porro quos dolores consectetur.",
+        "icon": null,
+        "is_active": 1,
+        "created_at": "2024-06-20T06:54:31.000000Z",
+        "updated_at": "2024-06-20T06:54:31.000000Z",
+        "users": [
+          {
+            "id": 5,
+            "name": "Miss Henriette Kozey Sr.",
+            "email": "raphael50@example.net",
+            "email_verified_at": "2024-06-20T06:54:08.000000Z",
+            "role": "user",
+            "profile": null,
+            "is_active": 1,
+            "created_at": "2024-06-20T06:54:08.000000Z",
+            "updated_at": "2024-06-20T06:54:08.000000Z",
+            "pivot": {
+              "project_id": 79,
+              "user_id": 5
+            }
+          },
+          {
+            "id": 10,
+            "name": "Richard Hill",
+            "email": "niko.nader@example.org",
+            "email_verified_at": "2024-06-20T06:54:08.000000Z",
+            "role": "user",
+            "profile": null,
+            "is_active": 1,
+            "created_at": "2024-06-20T06:54:08.000000Z",
+            "updated_at": "2024-06-20T06:54:08.000000Z",
+            "pivot": {
+              "project_id": 79,
+              "user_id": 10
+            }
+          },
+          {
+            "id": 24,
+            "name": "Dr. Cecilia Bauch",
+            "email": "jaleel49@example.net",
+            "email_verified_at": "2024-06-20T06:54:08.000000Z",
+            "role": "user",
+            "profile": null,
+            "is_active": 1,
+            "created_at": "2024-06-20T06:54:08.000000Z",
+            "updated_at": "2024-06-20T06:54:08.000000Z",
+            "pivot": {
+              "project_id": 79,
+              "user_id": 24
+            }
+          },
+          {
+            "id": 30,
+            "name": "Angelita Donnelly",
+            "email": "evelyn.lebsack@example.org",
+            "email_verified_at": "2024-06-20T06:54:08.000000Z",
+            "role": "user",
+            "profile": null,
+            "is_active": 1,
+            "created_at": "2024-06-20T06:54:08.000000Z",
+            "updated_at": "2024-06-20T06:54:08.000000Z",
+            "pivot": {
+              "project_id": 79,
+              "user_id": 30
+            }
+          },
+          {
+            "id": 40,
+            "name": "Lilian Bergnaum",
+            "email": "hgreenfelder@example.org",
+            "email_verified_at": "2024-06-20T06:54:08.000000Z",
+            "role": "user",
+            "profile": null,
+            "is_active": 1,
+            "created_at": "2024-06-20T06:54:08.000000Z",
+            "updated_at": "2024-06-20T06:54:08.000000Z",
+            "pivot": {
+              "project_id": 79,
+              "user_id": 40
+            }
+          },
+          {
+            "id": 47,
+            "name": "Mr. Peter Bauch",
+            "email": "ruthe.blanda@example.org",
+            "email_verified_at": "2024-06-20T06:54:08.000000Z",
+            "role": "user",
+            "profile": null,
+            "is_active": 1,
+            "created_at": "2024-06-20T06:54:08.000000Z",
+            "updated_at": "2024-06-20T06:54:08.000000Z",
+            "pivot": {
+              "project_id": 79,
+              "user_id": 47
+            }
+          },
+          {
+            "id": 66,
+            "name": "Prof. Myrl Cormier",
+            "email": "jenkins.stephany@example.org",
+            "email_verified_at": "2024-06-20T06:54:08.000000Z",
+            "role": "user",
+            "profile": null,
+            "is_active": 1,
+            "created_at": "2024-06-20T06:54:08.000000Z",
+            "updated_at": "2024-06-20T06:54:08.000000Z",
+            "pivot": {
+              "project_id": 79,
+              "user_id": 66
+            }
+          },
+          {
+            "id": 71,
+            "name": "Taurean Klocko",
+            "email": "mdouglas@example.com",
+            "email_verified_at": "2024-06-20T06:54:08.000000Z",
+            "role": "user",
+            "profile": null,
+            "is_active": 1,
+            "created_at": "2024-06-20T06:54:08.000000Z",
+            "updated_at": "2024-06-20T06:54:08.000000Z",
+            "pivot": {
+              "project_id": 79,
+              "user_id": 71
+            }
+          },
+          {
+            "id": 80,
+            "name": "Lelah Lueilwitz III",
+            "email": "irving59@example.org",
+            "email_verified_at": "2024-06-20T06:54:08.000000Z",
+            "role": "user",
+            "profile": null,
+            "is_active": 1,
+            "created_at": "2024-06-20T06:54:08.000000Z",
+            "updated_at": "2024-06-20T06:54:08.000000Z",
+            "pivot": {
+              "project_id": 79,
+              "user_id": 80
+            }
+          },
+          {
+            "id": 96,
+            "name": "Lavon Ziemann",
+            "email": "nicola.kemmer@example.org",
+            "email_verified_at": "2024-06-20T06:54:08.000000Z",
+            "role": "user",
+            "profile": null,
+            "is_active": 1,
+            "created_at": "2024-06-20T06:54:08.000000Z",
+            "updated_at": "2024-06-20T06:54:08.000000Z",
+            "pivot": {
+              "project_id": 79,
+              "user_id": 96
+            }
+          }
+        ]
+      },
+      {
+        "id": 80,
+        "name": "Occaecati nisi impedit ut dolor.",
+        "description": "Ea eius qui ut exercitationem voluptatum omnis molestiae odit. Debitis voluptatibus quasi laboriosam. Esse voluptatem dolores delectus magni. Commodi voluptas nemo sed aut quod et eveniet.",
+        "icon": null,
+        "is_active": 1,
+        "created_at": "2024-06-20T06:54:31.000000Z",
+        "updated_at": "2024-06-20T06:54:31.000000Z",
+        "users": [
+          {
+            "id": 2186,
+            "name": "Abdul Samad",
+            "email": "abdulsamad@gmail.com",
+            "email_verified_at": null,
+            "role": "user",
+            "profile": null,
+            "is_active": 1,
+            "created_at": "2024-07-03T13:32:40.000000Z",
+            "updated_at": "2024-07-03T13:32:40.000000Z",
+            "pivot": {
+              "project_id": 80,
+              "user_id": 2186
+            }
+          }
+        ]
+      }
+    ],
+    "first_page_url": "https://task-manager.codionslab.com/api/v1/admin/project?page=1",
+    "from": 1,
+    "last_page": 9,
+    "last_page_url": "https://task-manager.codionslab.com/api/v1/admin/project?page=9",
+    "links": [
+      {
+        "url": null,
+        "label": "&laquo; Previous",
+        "active": false
+      },
+      {
+        "url": "https://task-manager.codionslab.com/api/v1/admin/project?page=1",
+        "label": "1",
+        "active": true
+      },
+      {
+        "url": "https://task-manager.codionslab.com/api/v1/admin/project?page=2",
+        "label": "2",
+        "active": false
+      },
+      {
+        "url": "https://task-manager.codionslab.com/api/v1/admin/project?page=3",
+        "label": "3",
+        "active": false
+      },
+      {
+        "url": "https://task-manager.codionslab.com/api/v1/admin/project?page=4",
+        "label": "4",
+        "active": false
+      },
+      {
+        "url": "https://task-manager.codionslab.com/api/v1/admin/project?page=5",
+        "label": "5",
+        "active": false
+      },
+      {
+        "url": "https://task-manager.codionslab.com/api/v1/admin/project?page=6",
+        "label": "6",
+        "active": false
+      },
+      {
+        "url": "https://task-manager.codionslab.com/api/v1/admin/project?page=7",
+        "label": "7",
+        "active": false
+      },
+      {
+        "url": "https://task-manager.codionslab.com/api/v1/admin/project?page=8",
+        "label": "8",
+        "active": false
+      },
+      {
+        "url": "https://task-manager.codionslab.com/api/v1/admin/project?page=9",
+        "label": "9",
+        "active": false
+      },
+      {
+        "url": "https://task-manager.codionslab.com/api/v1/admin/project?page=2",
+        "label": "Next &raquo;",
+        "active": false
+      }
+    ],
+    "next_page_url": "https://task-manager.codionslab.com/api/v1/admin/project?page=2",
+    "path": "https://task-manager.codionslab.com/api/v1/admin/project",
+    "per_page": 10,
+    "prev_page_url": null,
+    "to": 10,
+    "total": 87
+  }
+}
